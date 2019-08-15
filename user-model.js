@@ -13,4 +13,4 @@ var ProjectSchema = new Schema(
 );
 
 // export the new Schema so we could modify it using Node.js
-module.exports = mongoose.model('Project', ProjectSchema);
+module.exports = mongoose.model('User', ProjectSchema);//alway like User =  table name(users) , Parson = table name people

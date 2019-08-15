@@ -16,5 +16,13 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NidhiPatel7/user-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NidhiPatel7/user-api/issues"
+  },
+  "homepage": "https://github.com/NidhiPatel7/user-api#readme",
   "description": ""
 }
